@@ -2,6 +2,7 @@
 include_once("helpers/url.php"); // Helpers
 include_once("data/posts.php"); 
 include_once("data/categories.php"); 
+include_once("data/user-profile.php"); 
 ?>
 
 <!DOCTYPE html>
